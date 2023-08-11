@@ -1,5 +1,5 @@
 import sys #for exception handling
-
+from src.logger iport loggn
 
 def error_message_detail(error,error_detail:sys):  #to give an own custom message of the error
     _,_,exc_tb=error_detail.exc_info() #on which file on which line the error has occured 

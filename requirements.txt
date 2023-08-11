@@ -1,4 +1,8 @@
 pandas 
 numpy
 seaborn
--e. #automatically triggers the initpy
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e. #automatically triggers the initpy
